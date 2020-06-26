@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device -->
+  <project path="device/xiaomi/gemini" name="VancityJaworro/platform_device_xiaomi_gemini" remote="github" revision="ten" />
+  <project path="device/xiaomi/msm8996-common" name="VancityJaworro/platform_device_xiaomi_msm8996-common" remote="github" revision="ten" />
+
+  <!-- Hardware -->
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" />
+
+  <!-- Kernel -->
+  <project path="kernel/xiaomi/msm8996" name="VancityJaworro/platform_kernel_xiaomi_msm8996" remote="github" revision="ten" />
+
+  <!-- Vendor -->
+  <project path="vendor/xiaomi" name="VancityJaworro/proprietary_vendor_xiaomi" remote="github" revision="ten" />
+
+</manifest>
+
